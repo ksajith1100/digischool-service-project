@@ -1,0 +1,7 @@
+# Ignore VS Code settings
+.vscode/ 
+# Ignore yarn lock file
+yarn.lock
+
+# Ignore node_modules directory
+node_modules/
